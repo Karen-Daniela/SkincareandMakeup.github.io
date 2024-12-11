@@ -1,0 +1,108 @@
+body {
+    background-color: #FFCCDD;
+}
+
+#logo {
+    text-align: center;
+}
+
+#linea {
+    border: white 3px solid;
+}
+
+#Inicio {
+    color: #F53597;
+    text-decoration: none;
+    font-size: 110px;
+}
+
+#subtitulo {
+    font-size: 30px;
+    color: #FC69BA;
+}
+
+.Titulo {
+    color: white;
+    text-decoration: none;
+}
+
+.Titulo :hover {
+    color: #ff7cbc;
+}
+
+.Texto-1 {
+    font-size: 20px;
+    color: #bd3376;
+}
+
+.Titulo-1 {
+    color: white;
+    text-align: center;
+}
+.Titulo-1 input {
+    display: none;
+
+}
+
+.Texto-2 {
+    font-size: 20px;
+    color: #bd3376;
+    text-align: center;
+}
+
+#lista {
+    text-decoration: none;
+    color: #FC69BA;
+    font-size: 30px;
+}
+.sub1 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+
+}
+.sub2{
+    color: #F53597;
+}
+
+.texto-3{
+    font-size: 20px;
+    color: #bd3376;
+}
+
+#lista1{
+    text-decoration: none;
+    color: #FC69BA;
+
+}
+
+#lista2{
+    color: #F53597;
+}
+
+#img{
+    height: 320;
+    width: 150px;
+    margin: auto;
+    border-radius: 60px;
+}
+.sub3{
+    color: #F53597;
+}
+.texto-4{
+    font-size: 20px;
+    color: #bd3376;
+}
+#lista3{
+    color: #F53597;
+}
+#lista4{
+    text-decoration: none;
+    color: #FC69BA;
+}
+.linea{
+    border: none;
+    height: 2px;
+    background-color: #FC69BA;
+    margin: 20px 0;
+}
